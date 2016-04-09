@@ -3,6 +3,7 @@ It creates a hidden folder of meta data needed to do all the git related tasks. 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+Staging area is like the rehearsel before the big show.  It's time to review everything you've done before you commit to the real show.  Time to try new things without repercussions.  Value-wise, you could see what things you've done since the last commit and decide if thats what you want to commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
