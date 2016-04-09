@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+ Pretty much saved a ton of time.  Scanned both documents in a second and found the discrepancies in an instant.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+ You could always revert back to a different version if something stops working. With one file, you make a save, and if you close your application, there’s no easy way to undo your changes.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+ See answer above.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+ I think Git is made with programmers in mind. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+ I have no idea.  Honestly the videos didnt even explain that.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+ Redundant question.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+ Making a website I guess?
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term? 
+
+I can confidently commit to changes and not feel overwhelmed by all the different changes I’ve made between saves.  
+
+-Why does git allow multiple file saves in one commit, while google docs treat each file separately?
+	Because its easier for coders?  You might forget to commit all the files each time you commit, and when you start breaking your code, it will be harder to track down when things go wrong because you will have a big commit on your files that you missed.  You will have done a lot of changes, and you dont know when it started going south.
+
+-How might using version control make you more confident to make changes that could break something?
+You guys are sounding like a broken record. I've answered this in various forms in past questions.  Basically knowing I can always revert to older commits, even create branches with more changes, and still revert back to a working version.  
