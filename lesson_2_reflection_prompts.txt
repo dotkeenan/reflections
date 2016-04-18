@@ -11,6 +11,7 @@ use git diff and git status to see what changes were made.  If two files were al
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+when you want to test something with a new experimental feature that may break your entire code.  Adding different things like various languages.  Branches make it so you can rest easy when making big changes, since you can always back out and go back to a working version.
 
 How do the diagrams help you visualize the branch structure?
 
