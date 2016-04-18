@@ -7,6 +7,7 @@ Staging area is like the rehearsel before the big show.  It's time to review eve
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+use git diff and git status to see what changes were made.  If two files were altered, then that is more than 1 logical change.  Also if you see many things were changed in the diff, then considered making more frequent and smaller commits.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
