@@ -14,6 +14,7 @@ organized? How would branches help?
 when you want to test something with a new experimental feature that may break your entire code.  Adding different things like various languages.  Branches make it so you can rest easy when making big changes, since you can always back out and go back to a working version.
 
 How do the diagrams help you visualize the branch structure?
+It helped a lot.  Especially with reachability and detached head state.  
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
