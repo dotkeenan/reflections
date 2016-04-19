@@ -18,6 +18,7 @@ It helped a lot.  Especially with reachability and detached head state.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The master branch acquires the experimental coin feature.  That branch's commits now have the master's parent, and all of its previous commits.  It's represented in that way to show where the branch branched off, and where it merged, and which master commits the branch missed out on while being branched. 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
