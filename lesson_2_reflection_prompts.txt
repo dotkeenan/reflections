@@ -22,4 +22,4 @@ The master branch acquires the experimental coin feature.  That branch's commits
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
-
+Sometimes you have conflicts that Git has no idea how to handle.  What if git automatically deleted some code that was intended to be in there? 
