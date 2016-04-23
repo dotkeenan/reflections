@@ -22,15 +22,16 @@ files in one commit, while others, like Google Docs, treat each file separately?
 How can you use the commands git log and git diff to view the history of files?
 
  I have no idea.  Honestly the videos didnt even explain that.
+*edit* covered much later.  Git log shows all your  commit history, and hopefully your commit comments can tell you what you changed.  Git diff shows the differences between the last commit and what you have done since.  
 
 How might using version control make you more confident to make changes that
 could break something?
 
- Redundant question.
+See previous answers.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
- Making a website I guess?
+ Making a website I guess.  Maybe photography or digital drawing.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term? 
 
@@ -40,4 +41,5 @@ I can confidently commit to changes and not feel overwhelmed by all the differen
 	Because its easier for coders?  You might forget to commit all the files each time you commit, and when you start breaking your code, it will be harder to track down when things go wrong because you will have a big commit on your files that you missed.  You will have done a lot of changes, and you dont know when it started going south.
 
 -How might using version control make you more confident to make changes that could break something?
-You guys are sounding like a broken record. I've answered this in various forms in past questions.  Basically knowing I can always revert to older commits, even create branches with more changes, and still revert back to a working version.  
+
+See previous answers.
